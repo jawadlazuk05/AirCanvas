@@ -1,0 +1,5 @@
+{
+  "name": "aircanvas",
+  "version": "0.1.0",
+  "dependencies": [ "opencv4" ]
+}
